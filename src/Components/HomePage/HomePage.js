@@ -27,7 +27,6 @@ export default function HomePage() {
 
   const toggleLoadingPage = () => {
     setShowLoading(prev => !prev);
-    console.log("toggled!")
   }
 
   useEffect(() => {
