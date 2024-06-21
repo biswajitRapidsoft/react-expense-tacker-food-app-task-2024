@@ -5,11 +5,11 @@ export default function Indivisualbar({ month }) {
     <div className="indivisual-bar">
       <div className="full-height">
         <div
-          className="fill-hight"
+          className="fill-height"
           style={{
-            height: `${100 - month.per}%`,
-            backgroundColor: "rgb(168 130 201)",
-            borderRadius: "10px 10px 0px 0px",
+            height: `${month.per}%`,
+            backgroundColor: "#2c0175",
+            borderRadius: "0px",
             border: "none",
           }}
         ></div>

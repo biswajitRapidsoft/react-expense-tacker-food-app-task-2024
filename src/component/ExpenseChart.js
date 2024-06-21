@@ -9,7 +9,7 @@ export default function ExpenseChart({ filteredexp }) {
     { monthnum: 4, month: "apr", value: 0, per: 0 },
     { monthnum: 5, month: "may", value: 0, per: 0 },
     { monthnum: 6, month: "jun", value: 0, per: 0 },
-    { monthnum: 7, month: "ul", value: 0, per: 0 },
+    { monthnum: 7, month: "jul", value: 0, per: 0 },
     { monthnum: 8, month: "aug", value: 0, per: 0 },
     { monthnum: 9, month: "sep", value: 0, per: 0 },
     { monthnum: 10, month: "ouc", value: 0, per: 0 },
